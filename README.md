@@ -1,8 +1,8 @@
 # Yacimientos arqueológicos en la zona de Popayán, Cauca, Colombia.
 
 Este conjunto de datos contiene la delimitación de los 64 yacimientos arqueológicos, en formato [geojson](https://github.com/vigonfer/popayan_yacimientos/blob/main/SitiosPopayan.geojson) que se han reportado en las inmediaciones de la ciudad de Popayán, 
-Cauca, Colombia, y que han sido incluidos en la etapa de prospección arqueológica del proyecto "Caracterización de las pirámides prehispánicas de Popayán, Cauca". La tabla 
-anexa incluye nombre, área en m<sup>2</sup>, indicaciones sobre si se reporta o no estructuras piramidales, si se ha descrito su material cultural, la referencia 
+Cauca, Colombia, y que han sido incluidos en la etapa de prospección arqueológica del proyecto "Caracterización de las pirámides prehispánicas de Popayán, Cauca". La [tabla 
+anexa](https://raw.githubusercontent.com/vigonfer/popayan_yacimientos/refs/heads/main/Popayan_Yacimientos.csv) incluye nombre, área en m<sup>2</sup>, indicaciones sobre si se reporta o no estructuras piramidales, si se ha descrito su material cultural, la referencia 
 bibliográfica, y las coordenadas Este y Norte del centroide del polígono que delimita el yacimiento (en el sistema de coordenadas UTM 18-N). 
 
 | **Num.** | **Nombre** | **Área (m<sup>2</sup>)** | **Estructura piramidal** | **Presencia Material** | **Referencia** | **Este** |     | **Norte** |
