@@ -1,0 +1,179 @@
+"","Nombre","Tipo_recoleccion","Sitio","Ceramica","Litico","Area","Este","Norte","Observaciones"
+"1","EM01PS","Pozo de sondeo","El Mirador",0,3,0.25,322559,270191,"Material moderno en superficie: plástico
+Abundancia de raíces en todos los estratos
+Raíz gruesa en el lateral izquierdo a los 30cm
+A los 32cm se encuentra rasgo de posibles adobes"
+"2","EM02PS","Pozo de sondeo","El Mirador",0,8,0.25,322557,270190,"Material moderno en superficie: plástico
+Abundancia de raíces en todos los estratos
+A los 40cm se encuentra rasgo
+Se continua excavación hasta los 48cm en donse se reconocen 3 estratos"
+"3","EMPerfilNorte1","Perfil","El Mirador",1,2,2.67,322545,270194,"Abundancia de raíces en todos los estratos
+Raíz gruesa a 40cm
+No se encuentra cerámica prehispánica"
+"4","EMPerfilOccidente1","Perfil","El Mirador",0,1,4.48,322555,270166,"Abundancia de raíces en todos los estratos
+Roca a 80cm
+Se encuentra obsidiana en el relleno"
+"5","MM01","Pozo de sondeo","Molino de Moscopán",1,1,0.16,321866,269209,"Obsidiana"
+"6","MM02","Pozo de sondeo","Molino de Moscopán",0,0,0.16,321854,269212,NA
+"7","MM03","Pozo de sondeo","Molino de Moscopán",0,0,0.16,321853,269192,NA
+"8","MM04","Pozo de sondeo","Molino de Moscopán",19,1,0.16,321854,269157,NA
+"9","MM05","Pozo de sondeo","Molino de Moscopán",4,0,0.16,321838,269174,NA
+"10","MM06","Pozo de sondeo","Molino de Moscopán",2,0,0.16,321873,269154,NA
+"11","MM07","Pozo de sondeo","Molino de Moscopán",5,0,0.16,321875,269199,NA
+"12","MM08","Pozo de sondeo","Molino de Moscopán",0,0,0.16,321890,269208,NA
+"13","MM09","Pozo de sondeo","Molino de Moscopán",0,0,0.16,321892,269144,NA
+"14","MM10","Pozo de sondeo","Molino de Moscopán",2,0,0.16,321902,269235,NA
+"15","MM11","Pozo de sondeo","Molino de Moscopán",1,0,0.16,321910,269169,NA
+"16","MM12","Pozo de sondeo","Molino de Moscopán",3,5,0.16,321904,269139,"Obsidiana"
+"17","MM13","Pozo de sondeo","Molino de Moscopán",1,0,0.16,321918,269154,NA
+"18","MM14","Pozo de sondeo","Molino de Moscopán",0,0,0.16,321930,269170,NA
+"19","MM15","Pozo de sondeo","Molino de Moscopán",3,0,0.16,321920,269221,"Otro: ¿Hueso?"
+"20","MM16","Pozo de sondeo","Molino de Moscopán",4,4,0.16,321905,269260,"Otro: ¿Arcilla? - 1 metal decorado"
+"21","MMPerfilEste","Perfil","Molino de Moscopán",1,0,0,321899,269218,NA
+"22","MMPerfilEsteSpr","Perfil","Molino de Moscopán",0,0,0,321898,269194,NA
+"23","MMPerfilNoreste","Perfil","Molino de Moscopán",0,0,0,321881,269243,NA
+"24","MMPerfilNorte","Perfil","Molino de Moscopán",1,1,0,321891,269231,"Otro: 15 frag. de carbón - 6 huesos - 1 botón - 1 frag. cobre - 1 vidrio?"
+"25","MMPerfilOeste","Perfil","Molino de Moscopán",0,0,0,321856,269230,NA
+"26","MMPerfilSur","Perfil","Molino de Moscopán",0,0,0,321871,269142,NA
+"27","MMPerfilSurAlto","Perfil","Molino de Moscopán",0,0,0,321855,269143,NA
+"28","MMPerfilSurBAjo","Perfil","Molino de Moscopán",0,0,0,321847,269142,NA
+"29","MMPerfilSuroccidente","Perfil","Molino de Moscopán",0,0,0,321834,269156,NA
+"30","MMPerfilSuroccidente2","Perfil","Molino de Moscopán",0,0,0,321845,269151,NA
+"31","MMPerfilSuroeste","Perfil","Molino de Moscopán",0,0,0,321826,269185,NA
+"32","MMPerfilSuroeste2","Perfil","Molino de Moscopán",1,0,0,321832,269206,NA
+"33","CC01PS","Pozo de sondeo","Polígono 11",7,41,0.25,322904,269881,"Material en superficie: cerámica y obsidiana (se recoléctó materia a 1,5m a la redonda)
+
+Se encuentraal lado de cultivo
+Abundancia de raíces en todos los estratos
+Raíces gruesas a: 13cm - 22cm - 29cm - 50cm - 56cm"
+"34","CC01RS
+Unidad1","Superficial","Polígono 11",94,32,13.2,322901,269909,"Unidad 1 de recolección sueperficial
+Se recogió todo el material visto en superficie
+Perturbación moderna: área de cultivo"
+"35","CC02PS","Pozo de sondeo","Polígono 11",10,3,0.25,322895,269918,"Perturbación moderna: en medio de área de cultivo
+Abundancia de raíces en todos los estratos
+Material a partir de los 10cm
+Concreciones en planta"
+"36","CC02RS
+Unidad2","Superficial","Polígono 11",90,38,13.2,322898,269918,"Unidad 2 de recolección sueperficial
+Se recogió todo el material visto en superficie
+Perturbación moderna: área de cultivo"
+"37","CC03PS","Pozo de sondeo","Polígono 11",26,23,0.25,322884,269943,"Extensión Corte 1
+Perturbación moderna: en medio de área de cultivo
+Abundancia de raíces en todos los estratos
+Material a partir de los 10cm
+Rasgo a partir de los 65cm
+Presencia de carbón en todos los estratos"
+"38","CC03RS","Superficial","Polígono 11",0,8,1,322903,269891,"Se recogió obsidiana vista en superficie sobre una zanja de cultivo
+Perturbación moderna: área de cultivo"
+"39","CC04PS","Pozo de sondeo","Polígono 11",20,20,0.25,322886,269944,"Extensión Corte 1
+Perturbación moderna: en medio de área de cultivo
+Abundancia de raíces en todos los estratos
+Material a partir de los 10cm
+Rasgo a partir de los 65cm
+Presencia de carbón en todos los estratos"
+"40","CCCorte1","Corte","Polígono 11",103,70,1.25,322886,269941,"Perturbación moderna: en medio de área de cultivo
+Abundancia de raíces en todos los estratos
+Material a partir de los 10cm
+Rasgo a partir de los 90cm, desaparece a los 95. Solo se mantiene un rasgo circular
+Presencia de carbón en todos los estratos"
+"41","PM01PS
+ZonaBaja","Superficial","Pomona",17,1,50,323028,270428,"Perturbación moderna: área incinerada/deforestada
+Se recogió todo el material visto en superficie"
+"42","PM01RS","Pozo de sondeo","Pomona",19,2,0.25,323046,270515,"Pozo sobre una terraza de 6m de largo x 4,8 de ancho
+Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbass
+Abundancia de raíces en el primer estrato
+Material a partir de los 28cm"
+"43","PM02PS
+ZonaMedia","Superficial","Pomona",0,1,50,323021,270455,"Perturbación moderna: área incinerada/deforestada
+Se recogió todo el material visto en superficie"
+"44","PM02RS","Pozo de sondeo","Pomona",6,6,0.25,323027,270510,"Pozo sobre una terraza de 6m de largo x 4,8 de ancho
+Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+Material a partir de los 18 cm
+A 18cm se encuentra posible rasgo
+Obsidiana a 44cm"
+"45","PM03PS
+ZonaAlta","Superficial","Pomona",2,1,50,323012,270547,"Perturbación moderna: área incinerada/deforestada
+Se recogió todo el material visto en superficie"
+"46","PM03RS","Pozo de sondeo","Pomona",5,4,0.25,323027,270510,"Pozo sobre una terraza de 6m de largo x 4,8 de ancho
+Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+Material a partir de los 15cm
+A 37cm aparece rasgo"
+"47","PM04RS","Pozo de sondeo","Pomona",0,1,0.25,323027,270510,"Pozo sobre una terraza de 6m de largo x 4,8 de ancho
+Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+Material a partir de los 28cm"
+"48","PM05RS","Pozo de sondeo","Pomona",5,1,0.25,323027,270510,"Pozo sobre una terraza de 6m de largo x 4,8 de ancho
+Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+Material a partir de los 10cm
+Rasgo a partir de los 32cm. Continua hasta el cm 38
+Concreciones en planta"
+"49","PM06RS","Pozo de sondeo","Pomona",0,0,0.25,323037,270501,"Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+Arena traslúsida a 20cm aprox"
+"50","PM07RS","Pozo de sondeo","Pomona",5,8,0.25,323027,270510,"Pozo sobre una terraza de 6m de largo x 4,8 de ancho
+Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+A 30cm aparece rasgo negro"
+"51","PM08RS","Pozo de sondeo","Pomona",1,1,0.25,323058,270516,"Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+Material en el estrato 1 a partitr de los 5cm"
+"52","PM09RS","Pozo de sondeo","Pomona",0,0,0.25,323033,270456,"Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Al lado se reconocen 3 tumbas
+Abundancia de raíces en el primer estrato
+No se encontró material"
+"53","PMPerfilSur1","Perfil","Pomona",0,0,0.73,323026,270443,"Perturbación moderna: área incinerada/deforestada
+Carbón en superficie y relleno
+Raiz gruesa a 12cm
+No se encontró material"
+"54","TC01PS","Pozo de sondeo","Tres Cruces",4,22,0.16,322725,269862,"Material moderno en el relleno y superficie: vidrio, plástico y clavos
+Abundancia de raíces en todos los estratos
+Roca a 20cm  (posible concreción)
+Primer fragmento de cerámica prehispánica a 26cm
+Raíz gruesa a 48cm"
+"55","TC02PS","Pozo de sondeo","Tres Cruces",0,111,0.16,322715,269872,"Material moderno en el relleno y superficie: plástico y tela
+Abundancia de raíces en todos los estratos
+No se encuentra cerámica prehispánica
+En todo el relleno se encuentran posibles artefactos líticos"
+"56","TC03PS","Pozo de sondeo","Tres Cruces",2,4,0.16,322714,269850,"Material moderno en el relleno y superficie: plástico
+Abundancia de raíces en todos los estratos
+No se encuentra cerámica prehispánica
+Relleno revuelto de grava
+Ladrillo a 70cm
+Se recolecta material lítico con posible potencial"
+"57","TCPerfilNorte1","Perfil","Tres Cruces",2,2,6.3,322708,269875,"Carbón desde los 50cm
+Raíces gruesas a: 70cm - 80cm - 140cm
+Abundancia de raíces en todos los estratos"
+"58","TCPerfilNorte2","Perfil","Tres Cruces",1,4,4.59,322729,269870,"Carbón desde los 40cm
+Raíces gruesas a: 40cm - 80cm - 127cm
+Abundancia de raíces en todos los estratos
+Entre 1-1,4m se encuentran hormigueros"
+"59","TCPerfilNorte3","Perfil","Tres Cruces",62,13,2.88,322720,269885,"Tierra de derrumbe
+Posible rasgo negro en el estrato 4 y 5 entre 86-113cm
+Carbón en el relleno
+Raíces gruesas a: 86cm - 113cm
+Abundancia de raíces en todos los estratos"
+"60","TCPerfilSur1","Perfil","Tres Cruces",4,11,3.9,322702,269835,"Dos árboles en superficie: uno en el centro a 1,5m desde el lateral derecho y otro en la esquina derecha
+Carbón en el relleno
+Raíces gruesas a: 28cm - 75cm - 90cm
+Abundancia de raíces en todos los estratos"
