@@ -1,0 +1,36 @@
+abstract: "<p>Este conjunto de datos contiene dos tablas. La tabla 1 presenta datos\
+  \ de las actividades de prospecci\xF3n arqueol\xF3gica del proyecto \"Caracterizaci\xF3\
+  n de las pir\xE1mides prehisp\xE1nicas de Popay\xE1n, Cauca\" (n\xFAmero de actividad,\
+  \ nombre, tipo de recolecci\xF3n, nombre del sitio, cantidad de cer\xE1mica, cantidad\
+  \ de l\xEDticos, \xE1rea en m2 estudiada, coordenadas Este y Norte en el sistema\
+  \ de coordenadas UTM 18-N, y un campo con observaciones). Un mapa de <a href=\"\
+  https://github.com/vigonfer/popayan_yacimientos/blob/main/PopayanDatosProspeccion.geojson\"\
+  >puntos</a> en formato geojson permiten visualizarlos.</p>\n<p>La tabla 2 contiene\
+  \ informaci\xF3n de 69 \xE1reas de prospecci\xF3n arqueol\xF3gica (incluidas las\
+  \ prospectadas en el proyecto \"Caracterizaci\xF3n de las pir\xE1mides prehisp\xE1\
+  nicas de Popay\xE1n, Cauca\"), en las inmediaciones de la ciudad de Popay\xE1n,\
+  \ Cauca, Colombia (nombre, \xE1rea en m2 del yacimiento, indicaciones sobre si se\
+  \ reporta o no estructuras piramidales, si se reporta material cultural, la referencia\
+  \ bibliogr\xE1fica, y las coordenadas Este y Norte del centroide del pol\xEDgono\
+  \ que delimita el yacimiento (en el sistema de coordenadas UTM 18-N). Un mapa de\
+  \ <a href=\"https://github.com/vigonfer/popayan_yacimientos/blob/main/Popayan_Yacimientos.geojson\"\
+  >poligonos</a> en formato geojson permiten visualizarlos. Se anexa, adem\xE1s el\
+  \ listado de referencias de las prospecciones.</p>"
+authors:
+- affiliation: Universidad del Cauca
+  family-names: Giraldo Tenorio
+  given-names: Hernando Javier
+  orcid: 0000-0001-5006-8343
+- affiliation: "Instituto Colombiano de Antropolog\xEDa e Historia"
+  family-names: "Gonz\xE1lez Fern\xE1ndez"
+  given-names: "V\xEDctor"
+  orcid: 0000-0002-8308-200X
+cff-version: 1.2.0
+date-released: '2025-11-12'
+doi: 10.5281/zenodo.17585717
+license:
+- gpl-3.0-only
+message: If you use this dataset, please cite it using the metadata from this file.
+title: "Yacimientos arqueol\xF3gicos en la zona de Popay\xE1n, Cauca, Colombia"
+type: dataset
+version: v2Popayan_yacimientos
