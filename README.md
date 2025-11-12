@@ -1,5 +1,5 @@
 # Yacimientos arqueológicos en la zona de Popayán, Cauca, Colombia. [Github](https://github.com/vigonfer/popayan_yacimientos)
-Víctor González y Javier Giraldo (2025)
+Javier Giraldo y Víctor González (2025)
 
 Este conjunto de datos contiene dos tablas. La tabla 1 presenta datos de las actividades de prospección arqueológica del proyecto "Caracterización de las pirámides prehispánicas de Popayán, Cauca" (número de actividad, nombre, tipo de recolección, nombre del sitio, cantidad de cerámica, cantidad de líticos, área en m<sup>2</sup> estudiada, coordenadas Este y Norte en el sistema de coordenadas UTM 18-N, y un campo con observaciones).  Un mapa de [puntos](https://github.com/vigonfer/popayan_yacimientos/blob/main/PopayanDatosProspeccion.geojson) en formato geojson permiten visualizarlos.
 
