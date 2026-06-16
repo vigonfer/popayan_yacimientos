@@ -5,7 +5,7 @@ Este conjunto de datos contiene dos tablas. La tabla 1 presenta datos de las act
 
 La tabla 2 contiene información de 69 áreas de prospección arqueológica (incluidas las prospectadas en el proyecto "Caracterización de las pirámides prehispánicas de Popayán, Cauca"), en las inmediaciones de la ciudad de Popayán, Cauca, Colombia (nombre, área en m<sup>2</sup> del yacimiento, indicaciones sobre si se reporta o no estructuras piramidales, si se reporta material cultural, la referencia bibliográfica, y las coordenadas Este y Norte del centroide del polígono que delimita el yacimiento (en el sistema de coordenadas UTM 18-N). Un mapa de [poligonos](https://github.com/vigonfer/popayan_yacimientos/blob/main/SitiosPopayan.geojson) en formato geojson permiten visualizarlos. Se anexa, además el listado de referencias de las prospecciones.
 
-## Tabla 1. Datos de la prospección en Popayán
+### Tabla 1. Datos de la prospección en Popayán
 
 |No. |Nombre          |Tipo_recoleccion|Sitio             |Ceramica|Litico|Area|Este  |Norte |Observaciones                                                                                                                                                                                                                                                                                                                |
 |----|--------|--------------|----------------|-------|------|----|------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
