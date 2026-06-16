@@ -1,36 +1,52 @@
-abstract: "<p>Este conjunto de datos contiene dos tablas. La tabla 1 presenta datos\
-  \ de las actividades de prospecci\xF3n arqueol\xF3gica del proyecto \"Caracterizaci\xF3\
-  n de las pir\xE1mides prehisp\xE1nicas de Popay\xE1n, Cauca\" (n\xFAmero de actividad,\
-  \ nombre, tipo de recolecci\xF3n, nombre del sitio, cantidad de cer\xE1mica, cantidad\
-  \ de l\xEDticos, \xE1rea en m2 estudiada, coordenadas Este y Norte en el sistema\
-  \ de coordenadas UTM 18-N, y un campo con observaciones). Un mapa de <a href=\"\
-  https://github.com/vigonfer/popayan_yacimientos/blob/main/PopayanDatosProspeccion.geojson\"\
-  >puntos</a> en formato geojson permiten visualizarlos.</p>\n<p>La tabla 2 contiene\
-  \ informaci\xF3n de 69 \xE1reas de prospecci\xF3n arqueol\xF3gica (incluidas las\
-  \ prospectadas en el proyecto \"Caracterizaci\xF3n de las pir\xE1mides prehisp\xE1\
-  nicas de Popay\xE1n, Cauca\"), en las inmediaciones de la ciudad de Popay\xE1n,\
-  \ Cauca, Colombia (nombre, \xE1rea en m2 del yacimiento, indicaciones sobre si se\
-  \ reporta o no estructuras piramidales, si se reporta material cultural, la referencia\
-  \ bibliogr\xE1fica, y las coordenadas Este y Norte del centroide del pol\xEDgono\
-  \ que delimita el yacimiento (en el sistema de coordenadas UTM 18-N). Un mapa de\
-  \ <a href=\"https://github.com/vigonfer/popayan_yacimientos/blob/main/Popayan_Yacimientos.geojson\"\
-  >poligonos</a> en formato geojson permiten visualizarlos. Se anexa, adem\xE1s el\
-  \ listado de referencias de las prospecciones.</p>"
-authors:
-- affiliation: Universidad del Cauca
-  family-names: Giraldo Tenorio
-  given-names: Hernando Javier
-  orcid: 0000-0001-5006-8343
-- affiliation: "Instituto Colombiano de Antropolog\xEDa e Historia"
-  family-names: "Gonz\xE1lez Fern\xE1ndez"
-  given-names: "V\xEDctor"
-  orcid: 0000-0002-8308-200X
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-date-released: '2025-11-12'
-doi: 10.5281/zenodo.17585717
-license:
-- gpl-3.0-only
-message: If you use this dataset, please cite it using the metadata from this file.
-title: "Yacimientos arqueol\xF3gicos en la zona de Popay\xE1n, Cauca, Colombia"
+title: >-
+  Yacimientos arqueológicos en la zona de Popayán, Cauca,
+  Colombia
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
 type: dataset
+authors:
+  - affiliation: Universidad del Cauca
+    family-names: Giraldo Tenorio
+    given-names: Hernando Javier
+    orcid: 'https://orcid.org/0000-0001-5006-8343'
+  - affiliation: Instituto Colombiano de Antropología e Historia
+    family-names: González Fernández
+    given-names: Víctor
+    orcid: 'https://orcid.org/0000-0002-8308-200X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17585717
+repository-code: 'https://github.com/vigonfer/popayan_yacimientos'
+url: 'https://github.com/vigonfer/popayan_yacimientos'
+abstract: >-
+  Este conjunto de datos presenta datos de las actividades
+  de prospección arqueológica del proyecto "Caracterización
+  de las pirámides prehispánicas de Popayán, Cauca" (número
+  de actividad, nombre, tipo de recolección,  nombre del
+  sitio, cantidad de cerámica, cantidad de líticos, área en
+  m2 estudiada, coordenadas Este y Norte en el sistema de
+  coordenadas UTM 18-N, y un campo con observaciones). La
+  tabla 2 contiene información de 69 áreas de prospección
+  arqueológica (incluidas las prospectadas en el proyecto 
+  "Caracterización de las pirámides prehispánicas de
+  Popayán, Cauca"),  en las inmediaciones de la ciudad de
+  Popayán, Cauca, Colombia (nombre,  área en m2 del
+  yacimiento, indicaciones sobre si se reporta o no
+  estructuras piramidales, si se reporta material cultural,
+  la referencia bibliográfica, y las coordenadas Este y
+  Norte del centroide del polígono que delimita el
+  yacimiento (en el sistema de coordenadas UTM 18-N). Se
+  anexa, además el listado de referencias de las
+  prospecciones.
+keywords:
+  - Arqueología
+  - Prospección
+license: GPL-3.0-only
+commit: 24df065c0571fffcc9d417821fd80629b89df51a
 version: v3Popayan_yacimientos
+date-released: '2025-11-12'
